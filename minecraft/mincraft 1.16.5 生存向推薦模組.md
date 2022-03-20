@@ -10,7 +10,7 @@ farbic的基本函式庫,許多模組的前置模組
 
 **Voxelmap[小地圖]**  
 常在別人畫面左上角看見的那個小地圖,也有世界地圖和標點的功能  
-下載: 
+下載: https://www.curseforge.com/minecraft/mc-mods/voxelmap
 
 **REI[合成表]**  
 常在別人背包右邊看見的那一欄合成表  
