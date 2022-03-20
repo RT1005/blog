@@ -14,7 +14,7 @@ farbic的基本函式庫,許多模組的前置模組
 
 **REI[合成表]**  
 常在別人背包右邊看見的那一欄合成表  
-下載: 
+下載: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
 
 **Iris[光影]**  
 光影模組,因為沒有optifine的一些問題,在高版本(1.15+)取代了optifine成為了主要光影模組  
