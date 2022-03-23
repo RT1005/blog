@@ -18,8 +18,8 @@ farbic的基本函式庫,許多模組的前置模組
 
 **Iris[光影]**  
 光影模組,因為沒有optifine的一些問題,在高版本(1.15+)取代了optifine成為了主要光影模組  
-下載: 
+下載: https://www.curseforge.com/minecraft/mc-mods/irisshaders
 
 **Mod menu[模組菜單]**  
 模組的專用菜單,可以在裏面調一些模組的設定  
-下載: 
+下載: https://www.curseforge.com/minecraft/mc-mods/modmenu
