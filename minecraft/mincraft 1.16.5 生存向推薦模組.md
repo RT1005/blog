@@ -23,3 +23,7 @@ farbic的基本函式庫,許多模組的前置模組
 **Mod menu[模組菜單]**  
 模組的專用菜單,可以在裏面調一些模組的設定  
 下載: https://www.curseforge.com/minecraft/mc-mods/modmenu
+
+**Inventory profile next[整理包包]**  
+一鍵包包整理。
+下載: 
