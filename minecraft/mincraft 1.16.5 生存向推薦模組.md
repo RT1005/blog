@@ -26,4 +26,4 @@ farbic的基本函式庫,許多模組的前置模組
 
 **Inventory profile next[整理包包]**  
 一鍵包包整理。
-下載: 
+下載: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
